@@ -6,6 +6,8 @@ This folder contains all publicly available reports. Some of the reports were ma
 
 https://f-droid.org/en/docs/Second_Audit_Report/
 
+https://f-droid.org/2022/12/22/third-audit-results.html (2022)
+
 ### Onion Router Cloud
 
 https://medium.com/dead-canaries/orc-15-and-radically-open-secur-35857213c15e
