@@ -24,3 +24,7 @@ https://padloc.app/blog/security-audit-ros/
 
 https://brew.sh/2022/05/17/homebrew-security-audit/
 
+### Ushaihi Platform
+
+https://public.opentech.fund/documents/report_otf-ushahidi-pentest.pdf
+
