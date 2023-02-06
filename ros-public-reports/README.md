@@ -18,3 +18,7 @@ https://micahflee.com/2022/01/onionshare-25-released/
 
 https://padloc.app/blog/security-audit-ros/
 
+### Mozilla Homebrew
+
+https://brew.sh/2022/05/17/homebrew-security-audit/
+
