@@ -1,3 +1,3 @@
 # ROS Public Reports
 
-This folder contains all publically available reports.
+This folder contains all publicly available reports.
