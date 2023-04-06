@@ -6,7 +6,7 @@ This folder contains all publicly available reports. Some of the reports were ma
 
 https://f-droid.org/en/docs/Second_Audit_Report/
 
-https://f-droid.org/2022/12/22/third-audit-results.html (2022)
+https://f-droid.org/2022/12/22/third-audit-results.html
 
 ### Onion Router Cloud
 
