@@ -1,6 +1,14 @@
 # ROS Public Reports
 
-This folder contains all publicly available reports. Some of the reports were made available on the customer website and the links are shared below:
+This readme contains all other publicly available reports. Some of the reports were made available in the form of a blogposts. 
+
+### Destiny
+
+https://leastauthority.com/community-matters/destiny/
+
+### iTerm2 
+
+https://blog.mozilla.org/security/2019/10/09/iterm2-critical-issue-moss-audit/
 
 ### F-Droid
 
