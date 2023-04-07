@@ -1,6 +1,6 @@
 # ROS Public Reports
 
-This readme contains all other publicly available reports. Some of the reports were made available in the form of a blogposts. 
+This readme contains all other publicly available reports. Some of the reports were made available in the form of a blog posts. 
 
 ### Destiny
 
