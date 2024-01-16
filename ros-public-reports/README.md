@@ -2,6 +2,14 @@
 
 This readme contains all other publicly available reports. Some of the reports were made available in the form of a blog post. 
 
+### PeerDB
+
+https://gitlab.com/peerdb/peerdb/-/issues/2
+
+### Keyoxide Mobile
+
+https://berker.substack.com/p/strengthening-security-and-enhancing
+
 ### Destiny
 
 https://leastauthority.com/community-matters/destiny/
