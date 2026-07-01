@@ -44,3 +44,10 @@ https://brew.sh/2022/05/17/homebrew-security-audit/
 
 https://public.opentech.fund/documents/report_otf-ushahidi-pentest.pdf
 
+### Rosenpass
+
+https://rosenpass.eu/blog/pentest_january/ 
+
+### Felix86
+
+https://felix86.com/felix86-26-07/ 
