@@ -2,6 +2,10 @@
 
 This readme contains all other publicly available reports. Some of the reports were made available in the form of a blog post. 
 
+### Karrot
+
+https://community.karrot.world/t/security-accessibility/2564
+
 ### PeerDB
 
 https://gitlab.com/peerdb/peerdb/-/issues/2
